@@ -1,7 +1,7 @@
 # Excel-WBS-Master
 WBS tool for project management using MS Excel
 
-1. Introduction
+# 1. Introduction
 
 Thank you very much for finding Excel WBS Master.
 This tool is designed to support efficient schedule management for projects that use Excel.
