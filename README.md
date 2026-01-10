@@ -52,7 +52,7 @@ Because this program uses macros, please ensure that macro execution is enabled.
 # 7. Uninstallation
 
 Simply delete the files.
-Registry and system folders in Windows are not used.
+Neither registry nor system folders in Windows are used.
 
 # 8. Trial Period and License Key
 
