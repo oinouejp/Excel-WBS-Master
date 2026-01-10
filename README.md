@@ -2,14 +2,16 @@
 WBS tool for project management using MS Excel
 
 1. Introduction
+
 Thank you very much for downloading Excel WBS Master.
 This tool is designed to support efficient schedule management for projects that use Excel.
 
 2. About the Software
+
 This Software is shareware.
 If you do not obtain a license key, the trial period is limited to 14 days since first file save.
 
-3. Features
+5. Features
 - You can create WBS and schedules simply by entering tasks and durations.
   WBS is not only for planning. By entering progress periodically, latest status can be clearly checked.
 - Gantt charts can be shown automatically based on the entered task data.
