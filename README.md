@@ -21,7 +21,7 @@ If you do not obtain a license key, the trial period is limited to 14 days since
 - Gantt charts are drawn by the conditional formatting function provieded by Excel. Comments can be set freely in the Gantt chart area.
 - In addition to daily display in Gantt chart area, weekly display and long term display is supported in addition.
 - EVM (Earned Value Management) charts and graphs can be generated.
-- For the description in Excel sheets, 10 languages is supported. For month, weekday and calender, the other languages are supported.
+- For the description in Excel sheets, 10 languages are supported. For month, weekday and calender, the other languages are supported.
 - Language can be changed at any time. All input data is preserved.
 
 # 4. Operating Environment
