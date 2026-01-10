@@ -1,4 +1,4 @@
-# Excel-WBS-Master
+# Excel WBS Master
 WBS tool for project management using MS Excel
 
 # 1. Introduction
