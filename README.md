@@ -4,25 +4,44 @@ WBS tool for project management using MS Excel
 # 1. Introduction
 
 Thank you very much for finding Excel WBS Master.
-This tool is designed to support efficient schedule management for projects that use Excel.
+This program is a tool designed to manage schedules for various projects using Microsoft Excel.
 
 # 2. About the Software
 
 This Software is shareware.
-If you do not obtain a license key, the trial period is limited to 14 days since first file save.
+If a license key is not obtained, the trial period is 14 days from the date you first save the Excel file.
 
 # 3. Features
    
-- You can create WBS and schedules simply by entering tasks and durations.
-  WBS is not only for planning. By entering progress periodically, latest status can be clearly checked.
-- Gantt charts can be shown automatically based on the entered task data.
-- Relationship between tasks can be shown by arrow line in the Gantt chart.
-- Gridline for tasks is automatically drawn.
-- Gantt charts are drawn by the conditional formatting function provieded by Excel. Comments can be set freely in the Gantt chart area.
-- In addition to daily display in Gantt chart area, weekly display and long term display is supported in addition.
-- EVM (Earned Value Management) charts and graphs can be generated.
-- For the description in Excel sheets, 10 languages are supported. For month, weekday and calender, the other languages are supported.
-- Language can be changed at any time. All input data is preserved.
+At-a-glance Status: 
+Plans and actual progress are clearly visible. By entering progress as it happens, the latest status is displayed in an easy-to-understand format. 
+
+Automatic Gantt Chart:
+Simply enter dates to display planned and actual schedules as a Gantt chart on the same row. 
+
+Task Dependencies:
+Task relationships can be visualized using arrows within the Gantt chart. 
+
+Auto-Drawing Borders:
+Borders in the task information area are automatically drawn based on data in the preceding and succeeding rows. 
+
+Flexible Comments:
+Since the Gantt chart is drawn using cell formatting, you can freely enter comments or other data into the cells within the chart. 
+
+Long-term Perspectives:
+Multiple Gantt chart display functions are available to help grasp project status from a long-term perspective, such as monthly views. 
+
+EVM Charts:
+Capability to generate EVM (Earned Value Management) charts and graphs. 
+
+Standard Excel Operations:
+No special interface is required; task information can be entered using standard Excel operations. 
+
+Multi-language Support:
+The display language supports 10 languages, including Japanese and English. The calendar and day/month displays in the Gantt chart support even more languages. 
+
+Instant Language Switching:
+When the language is changed, the screen display updates instantly while preserving all input data.
 
 # 4. Operating Environment
    
@@ -51,8 +70,7 @@ Because this program uses macros, please ensure that macro execution is enabled.
 
 # 7. Uninstallation
 
-Simply delete the files.
-Neither registry nor system folders in Windows are used.
+No special procedure is required. This software does not use Windows system directories or the registry.
 
 # 8. Trial Period and License Key
 
