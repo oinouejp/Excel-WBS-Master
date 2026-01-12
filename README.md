@@ -13,7 +13,8 @@ If a license key is not obtained, the trial period is 14 days from the date you 
 
 # 3. Features
    
-At-a-glance Status: 
+At-a-glance Status:
+
 Plans and actual progress are clearly visible. By entering progress as it happens, the latest status is displayed in an easy-to-understand format. 
 
 Automatic Gantt Chart:
