@@ -59,7 +59,7 @@ Confirmed operating environments:
 
 # 5. License, Terms of Use, Prohibited Actions, Disclaimer
    
-Before using this program, please read the contents of the License_xx.txt file.
+Before using this program, please read the contents of the Readme_xx.txt file.
 It contains information on the license, terms of use, prohibited actions, and disclaimers.
 If you do not agree with the contents, please discontinue use of the Software.
 
@@ -72,30 +72,14 @@ Because this program uses macros, please ensure that macro execution is enabled.
 
 No special procedure is required. This software does not use Windows system directories or the registry.
 
-# 8. Trial Period and License Key
-
-When you open the Excel file at first time, a dialog will appear showing the trial period and license key entry.
-If you have purchased a license, please select the license key.
-
-License is required for each computer. Sharing product key is not permitted.
-Please refer to the License_xx.txt file for more information.
-If the trial period expires, macros will no longer work.
-Even if trial period expires, basic Excel operations such as data entry may still work.
-
-Dialog window for license key entry can be suppressed by setting in option sheet.
-If it is suppressed, macro execution is disabled except computers in which license key entry is completed.
-
-Even if macro execution is disabled, basic Excel operation such as data input is possibie.
-
-# 9. How to Use
+# 8. How to Use
     
 For detailed instructions and usage methods, please refer to the “User's Guide” sheet in the Excel workbook.
 Sample input file is also provided. Please refer to it as needed.
 
-# 10. Contact Information
+# 9. Contact Information
     
-For inquiries to the author, please refer to the License_xx.txt file included with the Software.
+For inquiries to the author, please refer to the Readme_xx.txt file included with the Software.
 If you encounter program defects, requests, or other issues, feel free to contact the following email address.
 I will respond within reasonable limits.
 Email: oinouejp@gmail.com
-
