@@ -63,7 +63,6 @@ Users may use the Software only in accordance with the terms described herein.
 
 # 6. Prohibited Actions
 
-- Reverse engineering of the software
 Macro code in the Software is password protected.
 Reverse engineering by illegal method is prohibited. Code modification is also prohibited.
 
