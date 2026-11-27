@@ -8,8 +8,7 @@ This program is a tool designed to manage schedules for various projects using M
 
 # 2. About the Software
 
-This Software is shareware.
-If a license key is not obtained, the trial period is 14 days from the date you first save the Excel file.
+This Software is freeware.
 
 # 3. Features
    
@@ -57,29 +56,42 @@ Confirmed operating environments:
 - Microsoft Office 365 ProPlus (Excel 2002, Windows 10)
 - Microsoft 365 Apps for enterprise (Windows 10, 11)
 
-# 5. License, Terms of Use, Prohibited Actions, Disclaimer
-   
-Before using this program, please read the contents of the Readme_xx.txt file.
-It contains information on the license, terms of use, prohibited actions, and disclaimers.
-If you do not agree with the contents, please discontinue use of the Software.
+# 5. Copyright
 
-# 6. Installation
-   
+The copyright of the Software belongs entirely to the creator of the Software.
+Users may use the Software only in accordance with the terms described herein.
+
+# 6. Prohibited Actions
+
+- Reverse engineering of the software
+Macro code in the Software is password protected.
+Reverse engineering by illegal method is prohibited. Code modification is also prohibited.
+
+# 7. Disclaimer
+
+The Software is provided “as is,” without any warranty of quality and performance.
+The author of the Software shall not be liable for any direct or indirect damages 
+arising from the use of the Software.
+The author shall not be responsible for any trouble, loss, or damage resulting from 
+the use of the Software.
+
+# 8. Installation
+
 Extract the contents of the ExcelWbsMasterVxxx.zip file into any directory and open the Excel file.
 Because this program uses macros, please ensure that macro execution is enabled.
 
-# 7. Uninstallation
+# 9. Uninstallation
 
 No special procedure is required. This software does not use Windows system directories or the registry.
 
-# 8. How to Use
-    
-For detailed instructions and usage methods, please refer to the “User's Guide” sheet in the Excel workbook.
-Sample input file is also provided. Please refer to it as needed.
+# 10. How to Use
 
-# 9. Contact Information
-    
-For inquiries to the author, please refer to the Readme_xx.txt file included with the Software.
+For detailed instructions and usage methods, please refer to the “User's Guide” sheet in the Excel workbook.
+Sample input files are also provided. Please refer to them as needed.
+
+# 11. Contact Information
+
 If you encounter program defects, requests, or other issues, feel free to contact the following email address.
 I will respond within reasonable limits.
+
 Email: oinouejp@gmail.com
