@@ -10,7 +10,7 @@ The following functions are mainly provided:
 - Automatic generation of Gantt chart
 - Progress management
 - EVM analysis
-- Showing relation among tasks
+- Showing relations among tasks
 - Multiple language support
 
 # 2. About the Software
